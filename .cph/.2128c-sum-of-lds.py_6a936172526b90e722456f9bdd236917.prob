@@ -1,0 +1,1 @@
+{"name":"Local: 2128c-sum-of-lds","url":"d:\\cook\\cf\\2128c-sum-of-lds.py","tests":[{"id":1753632532015,"input":"4\n3\n3 2 1\n4\n4 3 1 2\n6\n6 1 5 2 4 3\n3\n2 3 1","output":"10\n17\n40\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cook\\cf\\2128c-sum-of-lds.py","group":"local","local":true}

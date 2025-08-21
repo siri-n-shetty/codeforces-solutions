@@ -1,1 +1,1 @@
-{"name":"Local: 2125a-difficult-contest","url":"d:\\cook\\cf\\2125a-difficult-contest.py","tests":[{"id":1753195903496,"input":"5\nFFT\nABFBANTTA\nFFTNTT\nFFTFFTFFTNNTNNT\nAFFTBFFNTTFTTZ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cook\\cf\\2125a-difficult-contest.py","group":"local","local":true}
+{"name":"Local: 2125a-difficult-contest","url":"d:\\cook\\cf\\2125a-difficult-contest.py","tests":[],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cook\\cf\\2125a-difficult-contest.py","group":"local","local":true}
