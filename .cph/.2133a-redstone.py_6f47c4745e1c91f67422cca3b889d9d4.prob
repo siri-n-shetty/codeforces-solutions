@@ -1,0 +1,1 @@
+{"name":"Local: 2133a-redstone","url":"d:\\cook\\cf\\2133a-redstone.py","tests":[{"id":1756047423667,"input":"5\n2\n5 5\n4\n6 3 6 9\n2\n2 3\n7\n30 10 12 10 10 9 18\n5\n2 4 8 16 32","output":"YES\nYES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cook\\cf\\2133a-redstone.py","group":"local","local":true}
